@@ -1,0 +1,17 @@
+h1 {
+    color: blue;
+    font-size: 40px;
+}
+body {
+    color:gray;
+    background-color: lavender;
+    font-size: 25px;
+}
+.venky {
+    color: red;
+    font-size: 26px;
+
+}
+#power {
+    color: hotpink;
+}
