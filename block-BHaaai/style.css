@@ -1,0 +1,22 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1 {
+    text-align: center;
+}
+.venky {
+    text-align: center;
+}
+h2 {
+    color: green;
+    }
+body {
+    background-color: rgba(4, 26, 97, 0.486);
+    line-height: 2.0em;
+    }
+a {
+    color: rgb(214, 50, 132);
+    text-align: center;
+    }
